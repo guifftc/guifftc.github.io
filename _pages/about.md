@@ -110,19 +110,19 @@ Membership of scientific societies
 
 Publications
 ======
-###Book Chapters & Reviews
+### Book Chapters & Reviews
 
-T Gabaldón, E Völcker, G Torruella 2022. On the biology, diversity and evolution of nucleariid amoebae. Protist.  https://doi.org/10.1016/j.protis.2022.125895. Q2 Corresponding.
+T Gabaldón, E Völcker, **G Torruella** 2022. On the biology, diversity and evolution of nucleariid amoebae. Protist.  https://doi.org/10.1016/j.protis.2022.125895. Q2 Corresponding.
 
 Adl et al. 2018. Revisions to the classification, nomenclature, and diversity of eukaryotes. J Eukaryot Microbiol 10.1111/jeu.12691.
 
-Guifré Torruella, David Moreira, Iñaki Ruiz-Trillo. 2014. The Domain Eucarya: The Rise of Organisms with Nucleated Cells in The Tree of Life. Sinauer Associates, Inc. Ed. Pablo Vargas & Rafael Zardoya. ISBN: 978-1-60535-229-9
+**Guifré Torruella**, David Moreira, Iñaki Ruiz-Trillo. 2014. The Domain Eucarya: The Rise of Organisms with Nucleated Cells in The Tree of Life. Sinauer Associates, Inc. Ed. Pablo Vargas & Rafael Zardoya. ISBN: 978-1-60535-229-9
 
-###Preprints
+### Preprints
 
-Jazmin Blaz, Luis Javier Galindo, Aaron A Heiss, Harpreet Kaur, Guifre Torruella, Ashley Yang, Alexa Thompson, Alexander Filbert, Sally Warring, Apurva Narechania, Takashi Shiratori, Ken-ichiro Ishida, Joel Dacks, Purificacion Lopez-Garcia, David Moreira, Eunsoo Kim, Laura Eme. High quality genome and transcriptome data for two new species of Mantamonas, a deep-branching eukaryote clade. bioRxiv 10.1101/2023.01.20.524885
+Jazmin Blaz, Luis Javier Galindo, Aaron A Heiss, Harpreet Kaur, **Guifre Torruella**, Ashley Yang, Alexa Thompson, Alexander Filbert, Sally Warring, Apurva Narechania, Takashi Shiratori, Ken-ichiro Ishida, Joel Dacks, Purificacion Lopez-Garcia, David Moreira, Eunsoo Kim, Laura Eme. High quality genome and transcriptome data for two new species of Mantamonas, a deep-branching eukaryote clade. bioRxiv 10.1101/2023.01.20.524885
 
-G Torruella*, L Galindo*, D Moreira, M Ciobanu, A A Heiss, N Yubuki, E Kim, P López-García. Expanding the molecular and morphological diversity of Apusomonadida, a deep-branching group of gliding bacterivorous protists. bioRxiv /10.1101/2022.11.09.515670v1
+**Guifre Torruella***, L Galindo*, D Moreira, M Ciobanu, A A Heiss, N Yubuki, E Kim, P López-García. Expanding the molecular and morphological diversity of Apusomonadida, a deep-branching group of gliding bacterivorous protists. bioRxiv /10.1101/2022.11.09.515670v1
 
 Xavier Grau-Bové, Cristina Navarrete, Cristina Chiva, Thomas Pribasnig, Meritxell Antó,  Guifré  Torruella,  Luis  Javier  Galindo,  Bernd  Franz  Lang,  David  Moreira,  Purificación López-Garcia, Iñaki Ruiz-Trillo, Christa Schleper, Eduard Sabidó, Arnau Sebé-Pedrós. Comparative proteogenomics deciphers the origin and evolution of eukaryotic chromatin. bioRxiv https://doi.org/10.1101/2021.11.30.470311.
 
@@ -130,7 +130,7 @@ Luis Javier Galindo, Purificación López-García, Guifré Torruella, Sergey Kar
 
 Guifré Torruella, Xavier Grau-Bové, David Moreira, Sergey A. Karpov, John Burns, Arnau Sebé-Pedrós, Eckhard Völcker, Purificación López-García. The aphelid-like phagotrophic origins of fungi. bioRxiv http://sci-hub.tw/10.1101/233882.
 
-###Journal Publications
+### Journal Publications
 2023
 
 
