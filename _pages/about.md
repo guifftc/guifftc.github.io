@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Curriculum vitae"
+title: "CV"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,30 +8,34 @@ redirect_from:
   - /about.html
 ---
 
-EDUCATION
+Education
 ======
-Dec 2014 	Doctor in Biology (PhD). Departament de Genètica, UB. Supervisors: Dr. Iñaki Ruiz-Trillo & Dr. Marta Riutort. Phylogeny and evolutionary perspective of Opisthokonta protists.
-Jun 2010        	Master in Developmental Biology and Genetics. Departament de Genètica, UB.
-Jun 2009        	Graduate in Biology. Universitat de Barcelona (UB).
+Dec 2014 Doctor in Biology (PhD). Departament de Genètica, UB.
+ Supervisors: Dr. Iñaki Ruiz-Trillo & Dr. Marta Riutort.
+ Phylogeny and evolutionary perspective of Opisthokonta protists.
 
-RESEARCH AND PROFESSIONAL EXPERIENCE
-======
+Jun 2010 Master in Developmental Biology and Genetics. Departament de Genètica, UB.
 
+Jun 2009 Graduate in Biology. Universitat de Barcelona (UB).
 
-FELLOWSHIPS AND AWARDS
-======
-
-WORKSHOPS
+Research and professional experience
 ======
 
-SUPERVISION, OUTREACH, AND TEACHING
+
+Fellowships and awards
 ======
 
-MEMBERSHIPS OF SCIENTIFIC SOCIETIES
+Workshops
 ======
 
-PUBLICATIONS
+Supervision, outreach and teaching
 ======
 
-COMMUNICATIONS
+Membership of scientific societies
+======
+
+Publications
+======
+
+Communications
 ======
