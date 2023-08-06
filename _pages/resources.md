@@ -1,11 +1,10 @@
 ---
-permalink: /
+layout: archive
 title: "Internet resources"
-excerpt: "Resources"
+permalink: /resources/
 author_profile: true
-redirect_from: 
-  - /resources/
-  - /resources.html
+redirect_from:
+  - /resume
 ---
 
 [Figshare repository] (https://figshare.com/authors/Guifr_Torruella/3846172)
