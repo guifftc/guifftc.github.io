@@ -1,3 +1,14 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
 Education
 ======
 Dec 2014 Doctor in Biology (PhD). Departament de Genètica, Universitat de Barcelona. Supervisors: Dr. Iñaki Ruiz-Trillo & Dr. Marta Riutort. Phylogeny and evolutionary perspective of Opisthokonta protists.
