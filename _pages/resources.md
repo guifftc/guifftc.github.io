@@ -3,8 +3,7 @@ layout: archive
 title: "Internet resources"
 permalink: /resources/
 author_profile: true
-redirect_from:
-  - /resume
+
 ---
 
 [Figshare repository] (https://figshare.com/authors/Guifr_Torruella/3846172)
