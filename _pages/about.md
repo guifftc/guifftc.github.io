@@ -1,15 +1,12 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-About me
-=====
 
 I am an evolutionary protistologist. I sample soils, marine and freshwater, to isolate and culture microbial eukaryotes. I morphologically describe protists with light and electron microscopy, I do experiments on whole cultures and single cells to obtain high-quality molecular data (transcriptomes and genomes) to perform environmental surveys, phylogenomics and comparative genomic analyzes.
 
