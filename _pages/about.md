@@ -18,8 +18,8 @@ Along my career, I have gained good knowledge on the still changing backbone of 
 
 My long-term goal is to learn the genomic changes that explain current eukaryotic diversity and ecology, and particularly how eukaryotes originated and diversified.
 
-Stats as per August 2023:
-======
+Stats as per August 2023
+------
 31 publications: 25 journal articles in indexed journals in green or gold open access (15 in Q1 of their fields), 1 book chapter, 5 preprints. 10 as first/co-first, 6 as corresponding & 2 as last author
 
 1844 total citations; source Scopus (H-index 17)
@@ -37,7 +37,7 @@ Stats as per August 2023:
 130h of practical teaching in Bioinformatics at UPF, Comparative & Functional Genomics  at ESCI-UPF, and Molecular Genetics at UB
 
 Trajectory
-======
+------
 During my career I worked in 3 internationally renowned labs.
 
 I started as a funded undergraduate and master student at the laboratory of Prof. Iñaki Ruiz-Trillo, resulting in my first paper. Awarded with 2 competitive fellowships to fulfil my PhD on opisthokont phylogenomics, I solved the conflicting phylogenetic hypotheses using transcriptomics of non-model organisms with a novel dataset of single-copy markers (3 publications as first author, 5 publications as collaborator). This cemented the backbone for further studies on the origin of multicellularity, and impacted fundamentally the protistology field. I sought courses, scientific societies and international meetings to expand my theoretical and methodological knowledge on deep phylogenomics. Two short-term visits: in a phylogenetics lab where I developed computational skills (Roger Lab, Canada); and in the AIRE lab (France), I broadened my view with non-tree-like evolutionary processes. During my last PhD year, I lead a project for a PhD student, resulting in my first paper as corresponding author.
@@ -47,7 +47,7 @@ During my first postdoc at the Diversity, Ecology, and Evolution of Microbes tea
 Currently, I work at the Comparative Genomics group from Dr. Toni Gabaldón (Beatriu de Pinós MSCA-COFUND). The project aims at obtaining high-quality genomes of 5 key eukaryotes to reconstruct ancestral states of this lineage, allowing unbiased comparisons of eukaryotes to infer evolutionary changes from the last eukaryotic common ancestor to the current biodiversity. For that, I’m establishing a bioinformatic pipeline to analyze low-complexity metagenomes with long and short-read sequencing coming from cultured protists, that will help to standardize the process of studying microbial diversity. So far, I published 1 review as corresponding author.
 
 Motivation
-======
+------
 For a bit over a decade, I’ve been working in evolutionary protistology, a field in expansion where hundreds of species are yearly discovered.
 
 My objectives for the field would be the following, for which I have expertise or at least solid knowledge. I think we need to focus on environmental studies and sampling deep-branching lineages in order to understand the ecology and to have a less biased picture of macroevolution. Although single cell -omics is helping to molecularly characterize most protists, I think culturing remains pretty important, even though it is challenging and time-consuming. Short-read sequencing has been fundamental to get draft transcriptomes and genomes, but in order to go deeper (e.g. functional studies) we need high-quality genomes, and this is why I think that, from now on, it is also fundamental to use long-read sequencing and Hi-C in complement with short-read sequencing. Finally, I think that performing good imaging and morphological characterization of protists is also a fundamental work in our field, although time-consuming and unfortunately less rewarding than molecular studies, it is an art that must not be forgotten. Overall, I think that evolutionary protistology is a field in expansion, due to globalisation and technology, and I find it really exciting. As I like to say: we are now like 18th-century naturalists studying their outside world.
