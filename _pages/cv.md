@@ -70,24 +70,8 @@ Workshops
 
 2011	Molecular Evolution at the Molecular Biology Laboratory. Woods Hole, MA. 1 week
 
-Supervision, outreach and teaching
+Supervision
 ======
-May 2023	Engaging high-school students, seminar (1h) European Researcher’s Night
-
-Feb 2023	Accredited as “Professor lector” by the AQU (Catalan administration)
-
-Oct 2022	Accredited as “Profesor ayudante doctor” by ANECA (Spanish admin)
-
-Apr 2022	Engaging high-school students, seminar (1h) RecerConnecta
-
-2021 – 2022	Practical teaching Bioinformatics (20h) UPF
-
-2021 – 2023	Practical teaching Comparative & Functional Genomics (84h) ESCI-UPF
-
-Nov 2020	Mètodes d’inferència filogenètica, seminar (2h) UB
-
-Sep 2018	Accredited as “Maître de conferences” by the French administration
-
 2017 – 2020	L. J. Galindo. PhD student, Université Paris Sud
 
 2016, 6 mths	E. Boher. MSc student, Université Paris Sud (04.01.16-30.06.16)
@@ -96,8 +80,41 @@ Sep 2018	Accredited as “Maître de conferences” by the French administration
 
 Jun 2011	G. Prunés. Undergrad student, Universitat de Barcelona (UB)
 
-2010 –2011 	Practical teaching Molecular Genetics (32 hours) UB
+Outreach
+======
+Oct 2023	High-school seminar (1h) Matins de Recerca. Barberà del Vallès (4t ESO)
 
+Sep 2023	High-school seminar (1h) Matins de Recerca. Terrassa (2n batx)
+
+Sep 2023	El fascinant món dels protists (20’) European Researcher’s Night. BCN
+
+May 2023	High-school seminar (1h) Matins de Recerca. Badalona (2n batx)
+
+Apr 2022	High-school seminar (1h) RecerConnecta. Hospitalet de Llobregat (1r batx)
+
+Sep 2021	Project summary: Euk-2-Us: Linking the origin of eukaryotes to the diversification of animals and fungi with genomics of nanoflagellates
+
+Dec 2019	Paper summary: les approches de cellule unique pour explorer la biodiversité cryptique des protistes 
+
+Aug 2018	Speed meeting "bavardages évolutifs". 2nd Joint Congress on Evolutionary Biology. Montpelhièr
+
+Teaching
+======
+Oct 2023	L’arbre de la vida, seminar (1h) UB. Master in Biodiversity
+
+Feb 2023	Accredited as “Professor lector” by the AQU (Catalan administration)
+
+Oct 2022	Accredited as “Profesor ayudante doctor” by ANECA (Spanish admin)
+
+2021 – 2022	Practical teaching Bioinformatics (20h) UPF
+
+2021 – 2023	Practical teaching Comparative & Functional Genomics (84h) ESCI-UPF
+
+Nov 2020	Mètodes d’inferència filogenètica, seminar (2h) UB. Master in Biodiversity
+
+Sep 2018	Accredited as “Maître de conferences” by the French administration
+
+2010 – 2011 	Practical teaching Molecular Genetics (32 hours) UB
 
 Membership of scientific societies
 ======
@@ -108,6 +125,27 @@ Membership of scientific societies
 2013 – present 	International Society of Protistologists
 
 2010 – present	Societat Catalana de Biologia
+
+Peer review
+======
+Reviewer for 12 scientific journals:
+
+Protist, Journal of Eukaryotic Microbiology, PeerJ, European Journal of Protistology, Environmental Microbiology, Metabarcoding & Metagenomics, Molecular Phylogeny and Evolution, BMC Biology, Systematics and Biodiversity, Biodiversity Data Journal, Nature Communications, New Phytologist, Gene
+
+Reviewer for research grants:
+
+Human Frontier Science Program Organization
+
+Proposals to be associate editor:
+
+Frontiers in Protistology: Evolution and Physiology of Protists section
+
+Archives of Microbiology
+
+Beta tester for bioinformatics software
+
+Blobtools 1 & 2, CroCo, AliScore, EukRef pipeline, MetAline
+
 
 Publications
 ======
