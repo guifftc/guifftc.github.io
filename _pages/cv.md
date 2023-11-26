@@ -128,24 +128,18 @@ Membership of scientific societies
 
 Peer review
 ======
-Reviewer for 12 scientific journals:
+**Reviewer for 12 scientific journals:**
 
 Protist, Journal of Eukaryotic Microbiology, PeerJ, European Journal of Protistology, Environmental Microbiology, Metabarcoding & Metagenomics, Molecular Phylogeny and Evolution, BMC Biology, Systematics and Biodiversity, Biodiversity Data Journal, Nature Communications, New Phytologist, Gene
 
-Reviewer for research grants:
-
+**Reviewer for research grants:**
 Human Frontier Science Program Organization
 
-Proposals to be associate editor:
+**Proposals to be associate editor:**
+Frontiers in Protistology: Evolution and Physiology of Protists section, Archives of Microbiology
 
-Frontiers in Protistology: Evolution and Physiology of Protists section
-
-Archives of Microbiology
-
-Beta tester for bioinformatics software
-
+**Beta tester for bioinformatics software:**
 Blobtools 1 & 2, CroCo, AliScore, EukRef pipeline, MetAline
-
 
 Publications
 ======
