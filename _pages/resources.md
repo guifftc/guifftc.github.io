@@ -27,4 +27,4 @@ redirect_from:
 
 [Talk at Biodiversity Genomics meeting 2023](https://events.venue-av.com/e/BG23/on_demand_meio)
 
-[Talk at Bigelow Laboratory for Ocean Sciences, also done at the AMNH in november 2023] (https://youtu.be/McQX4CR-x60)
+[Talk at Bigelow Laboratory for Ocean Sciences, also done at the AMNH in november 2023] ([https://youtu.be/McQX4CR-x60](https://www.youtube.com/watch?v=McQX4CR-x60&ab_channel=Guifr%C3%A9TorruellaiCort%C3%A9s)https://www.youtube.com/watch?v=McQX4CR-x60&ab_channel=Guifr%C3%A9TorruellaiCort%C3%A9s)
