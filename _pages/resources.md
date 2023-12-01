@@ -26,3 +26,5 @@ redirect_from:
 [Outreach talk about protists for Nit europea de la recerca 2023](https://www.youtube.com/watch?v=6NMjlABHDnw&ab_channel=Centrec%C3%ADvicCasaGolferichs)
 
 [Talk at Biodiversity Genomics meeting 2023](https://events.venue-av.com/e/BG23/on_demand_meio)
+
+[Talk at Bigelow Laboratory for Ocean Sciences, also done at the AMNH in november 2023] (https://youtu.be/McQX4CR-x60)
