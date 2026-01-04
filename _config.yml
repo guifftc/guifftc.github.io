@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Guifré Torruella"
-  avatar           : "guifftc_scuba.png"
+  avatar           : "2025_Torruella_picture.jpg"
   bio              : "Evolutionary protistologist"
-  location         : "Barcelona Supercomputing Centre"
-  employer         : "Institut de Recerca Biomèdica"
+  location         : 
+  employer         : "Institut de Biologia Evolutiva (UPF-CSIC)"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=guifre+torruella"
   googlescholar    : "https://scholar.google.cat/citations?user=FAQEDSUAAAAJ&hl"
-  email            : "guifftc@gmail.com"
+  email            : "guifre.torruella.cortes@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/Guifre-Torruella"
   uri              :
   bitbucket        :
@@ -106,7 +106,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-6534-4758"
   pinterest        :
   soundcloud       :
-  twitter          : "guifftc"
+  twitter          :
   vine             :
   weibo            :
   xing             :
