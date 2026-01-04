@@ -19,6 +19,8 @@ Jun 2009 Graduate in Biology. Universitat de Barcelona.
 
 Research and professional experience
 ======
+2024 – present	PostDoc at the MulticellGenome Lab. Institut de Biologia Evolutiva (UPF-CSIC). Supervisor: Iñaki Ruiz-Trillo.
+
 Jun 2023	Short-term visit as PostDoc at Department of Biology, Oxford University.
 
 2021 – present	PostDoc at the Comparative Genomics group. Biomedical Research Institute (IRB) and the Barcelona Supercomputing Centre (BSC), at Barcelona. Supervisor: Dr. Toni Gabaldón
@@ -36,13 +38,21 @@ Aug – Dec 2012	Short-term visit as PhD student at Roger Lab, Dalhousie Univers
 
 Fellowships and awards
 ======
+2025	Denied: Lector UB, SH, RyC. Due to incompatibility I rejected: UB & UAB substitute, UB & UAB adjunct lecturer
+
+2024	Denied: Ramon y Cajal 2023 (84.93/100, position 66 in Biociencias y biotecnología), 2 places lector micro UAB, SH genètica UB
+
+2023	Denied: Ramon y Cajal 2022 (84.19/100, position 110 in Ciencias y tecnologías medioambientales), plaça de lector zoologia-UB 
+
+2022	Denied: Ramon y Cajal 2021 (83.18/100, position 108 in Ciencias y tecnologías medioambientales)
+
 Jul 2021	William Trager Award. Most cited article, Journal of Eukaryotic Microbiology
 
 Oct 2020	Biogenoma: the Catalan Biogenome Project
 
 Sep 2020	Beatriu de Pinós (2019 BP 00208) ID: 801370, MSCA–COFUND
 
-Feb 2019	Rejections: MSCA-IF (87.4%), La Caixa Junior Leader Incoming (1st in reserve in the Life Science Panel)
+Feb 2019	Denied: MSCA-IF (87.4%), La Caixa Junior Leader Incoming (1st in reserve in the Life Science Panel)
 
 Feb 2016   	Marie Skłodowska Curie action (MSCA-IF 704566)
 
@@ -58,6 +68,38 @@ Sep 2010  	APIF PhD Grant from Universitat de Barcelona
 
 Sep 2008  	Undergrad fellowship from the Catalan government
 
+Languages and skills
+======
+Catalan (C1 - native), Spanish (C1), French (B2.2), German (A2)
+
+Advanced scuba diver + nitrox. >100 dives
+
+Driving license B
+
+Participation in research projects
+======
+2025 – 2028	Caracterización De Nuevas Estructuras Subcelulares De Percepción Lumínica En Eucariotas Unicelulares. PID2024-157853NA-I00. PI: Luis Javier Galindo. External collaborator.
+
+2023 – 2027	Reconstructing the urmetazoan protein repertoire and interaction network: an integrative phylogenetic, proteomic, and biochemical approach. PIs: C. Dessimoz, D. Fasshauer, P. Beltrao, I. Ruiz Trillo. Sinergia 2022 216623. Team member.
+
+2018 – 2023	The origin and early evolution of eukaryotic plastids. PI: D. Moreira. ERC-2017-ADG 787904. Team member.
+
+2013 – 2018	Protist evolution in suboxic worlds. PI: P. López-García. ERC AdG 322669. Team member.
+
+2014 – 2019	Unravelling the unicellular prehistory of metazoans with functional analyses and single-cell genomics. PI: I. Ruiz-Trillo. ERC Consolidator 616960. Team member.
+
+2012 – 2014	El origen del reino animal: un análisis genómico, filogenómico y de biodiversidad de los linajes unicelulares más cercanos a los animales. PI: I. Ruiz-Trillo. BFU2011-23434. Team member.
+
+2009 – 2011	La transición unicelular-multicelular: una aproximación genómica. PI: I. Ruiz-Trillo. BFU2008-02839/BMC. Team member.
+
+2008 – 2012	A comparative genomic analysis into the origin of metazoan multicellularity. PI: I. Ruiz-Trillo. ERC-2007-StG 206883. Team member.
+
+Organized meetings
+======
+2025	Meeting co-organizer. The origins and evolution of multicellularity across the Tree of Life, Barcelona, 3 days. Funded by SMBE (refused due to incompatibility), EMBO €51,020 & SSE €4k. Tasks: Conceptualization, abstract selection, session organization, abstract book, agenda and badge creation through EMBO web app.
+
+2025	Special symposium co-organizer. The origins of multicellularity in eukaryotes. ICOP2025, Seoul, Korea. Tasks: select 4 invited speakers and chair the session.
+
 Workshops
 ======
 2022	Introduction to Python through bioinformatic examples. Bioinformatics Barcelona. 16h
@@ -72,6 +114,14 @@ Workshops
 
 Supervision
 ======
+2025 - 2026	E. Gómez. MSc student, UB. Growth of heterotrophic flagellates (HFs)
+
+2024 – 2025	A. Cataffo. MSc student, UB. Systematics of Apusomonadida
+
+2024 – 2025	S. Vasco. MSc student, UB. Phenotypic plasticity in Corallochytrim limacisporum. Co-supervised with E. Casacuberta
+
+2024 – 2025	A. G. Grivas. MSc student, UPF. The complex life cycle of Abeoforma whisleri. Co-supervised with E. Casacuberta
+
 2017 – 2020	L. J. Galindo. PhD student, Université Paris Sud
 
 2016, 6 mths	E. Boher. MSc student, Université Paris Sud (04.01.16-30.06.16)
@@ -82,6 +132,12 @@ Jun 2011	G. Prunés. Undergrad student, Universitat de Barcelona (UB)
 
 Outreach
 ======
+2025 Denied for Matins de la Recerca
+
+Nov 2024	High-school seminar (1h). Terrassa (2n batx)
+
+Oct 2024	School seminar (1h) Matins de Recerca. Barcelona (5è i 6è)
+
 Oct 2023	High-school seminar (1h) Matins de Recerca. Barberà del Vallès (4t ESO)
 
 Sep 2023	High-school seminar (1h) Matins de Recerca. Terrassa (2n batx)
@@ -100,6 +156,12 @@ Aug 2018	Speed meeting "bavardages évolutifs". 2nd Joint Congress on Evolutiona
 
 Teaching
 ======
+Oct 2024	CSIC course on Principles of Evolution (8h). Doñana Biological reserve
+
+Oct 2024	ToL, eukaryogenesis & evolution (1h) UB. Master in Biodiversity
+
+Jul 2024	Ukrainian Biological Data Science Summer School (5 days). Uzhhorod
+
 Oct 2023	L’arbre de la vida, seminar (1h) UB. Master in Biodiversity
 
 Feb 2023	Accredited as “Professor lector” by the AQU (Catalan administration)
@@ -128,12 +190,16 @@ Membership of scientific societies
 
 Peer review
 ======
-**Reviewer for 12 scientific journals:**
+**Reviewer for 27 manuscripts in 21 scientific journals:**
 
-Protist, Journal of Eukaryotic Microbiology, PeerJ, European Journal of Protistology, Environmental Microbiology, Metabarcoding & Metagenomics, Molecular Phylogeny and Evolution, BMC Biology, Systematics and Biodiversity, Biodiversity Data Journal, Nature Communications, New Phytologist, Gene
+
+
+Biodiversity Data Journal, BioSystems, BMC Biology, BMC Genomics, Communications Biology, Current Biology, Environmental Microbiology, European Journal of Protistology, Gene, Genome Biology and Evolution, Journal of, Eukaryotic Microbiology, Metabarcoding & Metagenomics, Microbial Ecology, MicrobiologyOpen, Molecular Biology and Evolution, Molecular Phylogeny and Evolution, Nature Communications, New Phytologist, PeerJ, Protist, Systematics and Biodiversity
 
 **Reviewer for research grants:**
-Human Frontier Science Program Organization
+2025 MSCA4Ukraine, Alexander von Humboldt Stiftung
+
+2024 Human Frontier Science Program Organization
 
 **Proposals to be associate editor:**
 Frontiers in Protistology: Evolution and Physiology of Protists section, Archives of Microbiology
@@ -144,6 +210,9 @@ Blobtools 1 & 2, CroCo, AliScore, EukRef pipeline, MetAline
 Publications
 ======
 ### Book Chapters & Reviews
+Moreira, Galindo, **Torruella**, Karpov, López-García. 2025. Aphelids. Current Biology. 10.1016/j.cub.2025.11.004. Q1
+
+Hyde et al. 2023. Global consortium for the classification of fungi and fungus-like taxa. Mycosphere. 14(1):1960-2012. 10.5943/mycosphere/14/1/23. Q1
 
 T Gabaldón, E Völcker, **G Torruella** 2022. On the biology, diversity and evolution of nucleariid amoebae. Protist.  https://doi.org/10.1016/j.protis.2022.125895. Q2 **Corresponding**
 
@@ -152,6 +221,20 @@ Adl et al. 2018. Revisions to the classification, nomenclature, and diversity of
 **Guifré Torruella**, David Moreira, Iñaki Ruiz-Trillo. 2014. The Domain Eucarya: The Rise of Organisms with Nucleated Cells in The Tree of Life. Sinauer Associates, Inc. Ed. Pablo Vargas & Rafael Zardoya. ISBN: 978-1-60535-229-9
 
 ### Journal Publications
+2025
+
+KI Prokina*, __G Torruella__*, JL Galindo, P López-García, D Moreira. Discocelia plataet sp. n., a small incertae sedis cercozoan flagellate.  J Eukaryot Microbiol. 10.1111/jeu.70041 Q2. *Co-first author. Co-corresponding
+
+KI Prokina, N Yubuki, JL Galindo, __G Torruella__, Y Inagaki, K Iwamoto, P López-García, D Moreira. A deeply branching lineage in Heterolobosea (Discoba) with multiflagellated and multigrooved life stages. J Eukaryot Microbiol. 10.1111/jeu.70037 Q2.
+
+__Torruella G__, Galindo JL, Moreira D, López-García P. Phylogenomics of neglected flagellated protists supports a revised eukaryotic tree of life. Curr Biol. 10.1016/j.cub.2024.10.075 Q1. Co-corresponding
+
+2024
+
+Galindo LJ, Mathur V, Frost H, __Torruella G__, Richards TA, Irwin NAT. Transcriptomics of Diphyllatea (CRuMs) from South Pacific crater lakes confirm new cryptic clades. J Eukaryot Microbiol. 10.1111/jeu.13060. Q3
+
+Corominas et al. The Catalan initiative for the Earth BioGenome Project: contributing local data to global biodiversity genomics. NAR Genom Bioinform. 10.1093/nargab/lqae075. Q1
+
 2023
 
 J Blaz, L J Galindo, A Heiss, H Kaur, __G Torruella__, A Yang, L Thompson, A Filbert, S Warring, A Narechania, T Shiratori, K Ishida, J Dacks, P López-García, D Moreira, E Kim, L Eme. High-quality genome and transcriptome data for two new species of _Mantamonas_, a deep-branching eukaryote clade. Sci. Data. Q1
@@ -226,6 +309,20 @@ __G Torruella__, H Suga, M Riutort, J Peretó, I Ruiz-Trillo. The evolutionary h
 
 Communications
 ======
+2026	Talk Biodiversity of neglected flagellated protists in the tree of eukaryotes. 10th SESBE València
+
+2025	Talk Diverse genomes of morphologically conserved apusomonads. ICOP/ISOP, Seoul
+
+2025	Poster Unraveling The Diversity Of Cercozoa: Phylogenetics And Ultrastructure Expansion Microscopy Of Novel Gliding Flagellates. ICOP/ISOP, Seoul
+
+2025	Talk Reconstructing the tree of eukaryotes using phylogenomics. CREAFtalks, Universitat Autònoma de Barcelona. Recorded
+
+2024	Talk The genome of Singekia montserratensis, an apusomonad heterotrophic flagellate with a pivotal evolutionary position. Biodiversity Genomics. On-line
+
+2023	Two invited USA seminar talks Reconstructing the tree of eukaryotes using phylogenomics. American Museum of Natural History, New York & Bigelow Laboratory for Ocean Sciences, Maine
+
+2023	Talk The genome of Singekia montserratensis, an apusomonad heterotrophic flagellate with a pivotal evolutionary position. Biodiversity Genomics. On-line
+
 2023	Poster Euk-2-Us: Linking the origin of eukaryotes to the diversification of animals and fungi with genomics of flagellates. SMBE. Ferrara
 
 2023	Talk Deciphering the evolution of the early-diverging clades of heterotrophic flagellates Apusomonadida and Ancyromonadida. ECOP-ISOP joint meeting: "The Century of Protists". Vienna
