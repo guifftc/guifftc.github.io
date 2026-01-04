@@ -16,25 +16,21 @@ During my career, I have worked with multiple eukaryotic lineages (opisthokonts,
 
 Along my career, I have gained good knowledge on the still changing backbone of the eukaryotic tree of life, and also about conflicting phylogenetic hypotheses at the deepest parts, at the root of supergroups and the relationships between them.
 
-My long-term goal is to learn the genomic changes that explain current eukaryotic diversity and ecology, and particularly how eukaryotes originated and diversified.
+My long-term goal is to learn the genomic changes that explain current eukaryotic diversity and ecology, and particularly how eukaryotes originated and diversified into the current biodiversity.
 
-Stats as per August 2023
+Stats as per January 2026
 ------
-31 publications: 25 journal articles in indexed journals in green or gold open access (15 in Q1 of their fields), 1 book chapter, 5 preprints. 10 as first/co-first, 6 as corresponding & 2 as last author
+1 book chapter, 33 articles in GOA (22 in Q1, 64%) including 4 reviews: 12 as first/co-first (35%), 6 as co-corresponding (17.6), 2 as last and sole corresponding author (23%).
 
-1844 total citations; source Scopus (H-index 17)
+Scopus: >2,900 citations; H-index 21.
 
-2691 total citations; source Google Scholar (H-index 18)
+29 scientific international communications: 10 posters & 18 talks, 1 as invited speaker. Co-organizer of an international meeting and a symposium.
 
-3 co-supervised students: L Galindo PhD; E. Boher MSc; G Prunés Undergrad
+Co-supervisor of 5 MSc students: Elsa Boher, Sergio Vasco, Alkiviadis Grivas, Andrea Cataffo, Elena Gómez & 2 PhD students: David López, Luis Javier Galindo.
 
-25 communications at scientific meetings (1 invited talk)
+170 h of formal teaching in Bioinformatics at UPF, Comparative & Functional Genomics  at ESCI-UPF, and Molecular Genetics at UB. >100 h of outreach activities.
 
-10 own grants and scholarships (MSC, BdP), participation in 4 ERC projects
-
-16 revisions for 12 indexed journals
-
-130h of practical teaching in Bioinformatics at UPF, Comparative & Functional Genomics  at ESCI-UPF, and Molecular Genetics at UB
+Reviewer for 27 manuscripts in 21 scientific journals & for 2 funding agencies.
 
 Trajectory
 ------
@@ -44,10 +40,10 @@ I started as a funded undergraduate and master student at the laboratory of Prof
 
 During my first postdoc at the Diversity, Ecology, and Evolution of Microbes team in Paris, with Drs. David Moreira and Purificación López-García, I expanded my research on evolutionary protistology (hired with ERC grants and my own MSCA-IF). I sampled, isolated and cultured new species to improve the taxonomic sampling of various eukaryotic lineages (amoebae, algae, flagellates…). By means of microscopy diversity studies and sequencing methodologies (metabarcoding and primer-specific amplicons of environmental samples), I discovered dozens of novel species. I robustly placed them in the eukaryotic tree, pioneering the use of single-cell genomics of uncultivable organisms for phylogenomics. I forged and lead international collaborations with classic protistologists, morphologists but also biochemists. Furthermore, I co-supervised a masters and a PhD student. From this postdoc, I have 10 publications, 4 as [co-]first author and 4 as [co-]corresponding). The impact of my first postdoc is yet to be full, with publications under review or as preprints, but it has become already the main study organisms for an ERC project in Paris. Also, the protistology community recognizes me as a leading researcher as proven by the numerous reviewing duties, an invitation as keynote speaker, and the participation in the most relevant reclassification of protists (>700 citations in 3 years).
 
-Currently, I work at the Comparative Genomics group from Dr. Toni Gabaldón (Beatriu de Pinós MSCA-COFUND). The project aims at obtaining high-quality genomes of 5 key eukaryotes to reconstruct ancestral states of this lineage, allowing unbiased comparisons of eukaryotes to infer evolutionary changes from the last eukaryotic common ancestor to the current biodiversity. For that, I’m establishing a bioinformatic pipeline to analyze low-complexity metagenomes with long and short-read sequencing coming from cultured protists, that will help to standardize the process of studying microbial diversity. So far, I published 1 review as corresponding author.
+With that, I wanted to focus on genomics and comparative genomics to reconstruct ancestral states on the eukaryotic tree. In 2019, I was first in reserve for La Caixa Junior leader grant; fortunately, I was awarded with the Beatriu de Pinós fellowship to move to the BSC with Toni Gabaldón. There, I obtained high-quality genomes from my novel species of heterotrophic flagellates. For that, I obtained extra funding from the Catalan Biogenome Project. I developed an experimental and bioinformatic pipeline of low complexity metagenomics in heterotrophic flagellates. The new genomes allowed me to compare the gene of these taxa to reconstruct the ancestral gene complement in the lineage from the last eukaryotic common ancestor to animals and fungi (in preparation). During that period in which I was not allowed to co-supervise, I published two revisions on fungi and protists, the latter as corresponding author.
+
+Currently, I am doing a 3rd postdoc in the multicellgenome lab exploring the cell biology of heterotrophic flagellates to explore the relationship between genotypes and phenotypes and I contribute to the expansion of known biodiversity codirecting 4 master students in two years. I am working on the reconstruction of ancestral protein sets and their interactions in the origin of animals (SINERGIA), including the description of new species of heterotrophic flagellates within and close to opisthokonts.
 
 Motivation
 ------
-For a bit over a decade, I’ve been working in evolutionary protistology, a field in expansion where hundreds of species are yearly discovered.
-
-My objectives for the field would be the following, for which I have expertise or at least solid knowledge. I think we need to focus on environmental studies and sampling deep-branching lineages in order to understand the ecology and to have a less biased picture of macroevolution. Although single cell -omics is helping to molecularly characterize most protists, I think culturing remains pretty important, even though it is challenging and time-consuming. Short-read sequencing has been fundamental to get draft transcriptomes and genomes, but in order to go deeper (e.g. functional studies) we need high-quality genomes, and this is why I think that, from now on, it is also fundamental to use long-read sequencing and Hi-C in complement with short-read sequencing. Finally, I think that performing good imaging and morphological characterization of protists is also a fundamental work in our field, although time-consuming and unfortunately less rewarding than molecular studies, it is an art that must not be forgotten. Overall, I think that evolutionary protistology is a field in expansion, due to globalisation and technology, and I find it really exciting. As I like to say: we are now like 18th-century naturalists studying their outside world.
+For over a decade, I’ve been working in evolutionary protistology, and I think we need to focus on environmental studies and sampling deep-branching lineages in order to understand the ecology and to have a less biased picture of macroevolution. Although single cell -omics is helping to molecularly characterize most protists, I think culturing remains pretty important, even though it is challenging and time-consuming. Short-read sequencing has been fundamental to get draft transcriptomes and genomes, but in order to go deeper (e.g. functional studies) we need high-quality genomes, and this is why I think that it is also fundamental to use long-read sequencing and Hi-C to obtain high quality genomic data. For that, FACS is fundamental to obtain purified cells. Finally, I think that performing good imaging and morphological characterization of protists is also a fundamental work in our field, it is an art that must not be forgotten. Overall, I think that evolutionary protistology is a field in expansion, due to globalisation and technology, and I find it really exciting. As I like to say: we are now like 18th-century naturalists studying their outside world.
