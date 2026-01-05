@@ -9,7 +9,7 @@ redirect_from:
 
 [Figshare repository](https://figshare.com/authors/Guifr_Torruella/3846172) with phylogenetic datasets, transcriptomes & supplementary materials
 
-[Zoobank repository](https://zoobank.org/Authors/AF9604F0-525F-41B5-8694-A4A1240B2B01) with taxonomy nomenclature
+[Zoobank repository](https://zoobank.org/Search?search_term=torruella) with taxonomy nomenclature
 
 **Scientific profiles**
 
